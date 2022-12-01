@@ -2,8 +2,8 @@
 
 ## Alumno/s
 
-- Sabrina Natalia Casalini (@sabrinanc)
-- Juan Ramón López (@JuanRamonL)
+- Alumno/a 1 (@usuariodeGitHub)
+- Alumno/a 2 (@usuariodeGitHub)
 
 ## Observaciones
 
